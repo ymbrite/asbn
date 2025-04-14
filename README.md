@@ -38,31 +38,8 @@ npx vitest
 
 ---
 
-## 📁 Project Structure (Basic)
-
-```
-├── components/      # Vue components
-├── composables/     # Composable utilities
-├── pages/           # Application pages (routes)
-├── utils/           # Helper functions (e.g., helper.ts)
-├── tests/           # Unit tests (optional if colocated)
-├── nuxt.config.ts   # Nuxt configuration
-```
-
----
-
 ## 📌 Notes
 
 - Make sure you have Node.js and npm installed.
 - This project uses Nuxt 3 with TypeScript support out of the box.
 - You can extend the project using modules, middlewares, or APIs.
-
----
-
-## 🧪 Example Test
-
-The `makeFirstCharUpper` helper function is tested using Vitest. You can find the test file under the same directory or in the `tests/` folder.
-
----
-
-Feel free to contribute or customize the project as needed!
