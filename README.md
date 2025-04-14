@@ -1,8 +1,3 @@
-Sure! Here's a clean and well-formatted `README.md` for your Nuxt project:
-
----
-
-````markdown
 # Nuxt Project
 
 This is a Nuxt 3 project built with TypeScript. It includes a helper utility and uses Vitest for testing.
@@ -16,7 +11,6 @@ Follow the steps below to set up and run the project locally.
 ```bash
 npm install
 ```
-````
 
 ### 🧑‍💻 Start the Development Server
 
@@ -72,10 +66,3 @@ The `makeFirstCharUpper` helper function is tested using Vitest. You can find th
 ---
 
 Feel free to contribute or customize the project as needed!
-
-```
-
----
-
-Let me know if you want to add badges, deployment instructions (like Vercel or Netlify), or anything else!
-```
